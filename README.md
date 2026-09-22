@@ -6,4 +6,4 @@ Love to learn new technologies and build new projects ^_^
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-visit my site - https://mkailasnath-portfolio.vercel.app/ :)
+know more about me - https://mkailasnath-portfolio.vercel.app/ :)
